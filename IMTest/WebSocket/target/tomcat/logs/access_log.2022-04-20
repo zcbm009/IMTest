@@ -1,0 +1,3 @@
+127.0.0.1 - - [20/Apr/2022:18:27:16 +0800] "GET /websocket HTTP/1.1" 101 - http-bio-8082-exec-1 42
+127.0.0.1 - - [20/Apr/2022:18:30:46 +0800] "GET /websocket HTTP/1.1" 404 969 http-bio-8082-exec-1 50
+127.0.0.1 - - [20/Apr/2022:18:30:51 +0800] "GET /websocket/231 HTTP/1.1" 101 - http-bio-8082-exec-3 10

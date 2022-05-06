@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+rocketmq:
+  producer:
+    group: boot-producer-group
+  name-server: 192.168.242.129:9876
+
+logging:
+  level:
+    com:
+    suntao:
+      test: debug
+
+#com:
+#  suntao:
+#    test:
+#    rocketmq: debug
+
